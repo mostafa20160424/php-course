@@ -1,0 +1,12 @@
+PRIMARY KEY
+{
+	only allow one primary key in your table
+	not take null value will put the default zero
+	no-repeat
+}
+UNIQUE
+{
+	not allow only one can be several in your table
+	allow null value
+	np-repeat
+}

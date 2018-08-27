@@ -1,0 +1,19 @@
+form{
+    width:600px;
+    margin:150px auto;
+    
+}
+ul li{
+    margin-top:10px;
+}
+h1{
+    text-align:center;
+}
+.alert{
+    padding: 5px 20px;
+    margin-top:10px; 
+}
+.usererror,.mssgerror,.emailerror,.passworderror{
+
+    display: none;
+}

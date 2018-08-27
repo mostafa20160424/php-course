@@ -1,0 +1,10 @@
+{
+    "myname":"mostafa",
+    "myage":19,
+    "phoneNumber":["mostafa",false],
+    "object":{
+        "address":["cairo","egypt"],
+        "person":{"salary":2500,"age":19}
+    }
+
+}
